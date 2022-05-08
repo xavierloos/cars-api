@@ -1,0 +1,27 @@
+{
+ "2017":{
+  "car_id": 1,
+  "car_brand":"Range Rover",
+  "car_model":"2017",
+  "car_num_models": 3,
+  "car_img_url": "https://1cars.org/wp-content/uploads/2019/07/Range-Rover-Evoque.jpg",
+  "car_specs":"4x4",
+  "car_horsepower": "3.0L Diesel 258HP",
+  "car_otr_price": "24,000",
+  "car_year":"2017",
+  "car_colours_available":["Black", "Red", "White","Blue"]
+ },
+ "x18":{
+  "car_id": 2,
+  "car_brand":"Range Rover",
+  "car_model":"x18",
+  "car_num_models": 2,
+  "car_img_url": "https://1cars.org/wp-content/uploads/2019/07/Range-Rover-Evoque.jpg",
+  "car_specs":"4x4",
+  "car_horsepower": "1.0L Diesel 223HP",
+  "car_otr_price": "20,000",
+  "car_year":"2018",
+  "car_colours_available":["Black", "Red", "White","Blue"]
+  
+ }
+}

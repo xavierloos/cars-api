@@ -1,0 +1,27 @@
+{
+ "V40":{
+  "car_id": 1,
+  "car_brand":"Volvo",
+  "car_model":"V40",
+  "car_num_models": 3,
+  "car_img_url": "",
+  "car_specs":"",
+  "car_horsepower": "",
+  "car_otr_price": "17,000",
+  "car_year":"2007",
+  "car_colours_available":["Black", "Red", "White","Blue"]
+ },
+ "S60":{
+  "car_id": 2,
+  "car_brand":"Volvo",
+  "car_model":"S60",
+  "car_num_models": 2,
+  "car_img_url": "",
+  "car_specs":"",
+  "car_horsepower": "",
+  "car_otr_price": "23,000",
+  "car_year":"2021",
+  "car_colours_available":["Black", "Red", "White","Blue"]
+  
+ }
+}
